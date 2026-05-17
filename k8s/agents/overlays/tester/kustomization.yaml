@@ -4,7 +4,6 @@ namespace: tester-agent
 resources:
   - ../../base
   - ../../../tools/overlays/telegram
-  - ../../../tools/overlays/github
 
 generatorOptions: {}
 
